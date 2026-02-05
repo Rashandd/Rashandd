@@ -3,12 +3,12 @@
 
 ---
 
-### 🚀 Core Focus
-- **Algorithmic Trading:** Developing high-performance strategies with [Nautilus Trader](https://nautilustrader.io/).
-- **Systems Programming:** Crafting safe and fast solutions using **Rust**.
-- **Backend Infrastructure:** Scaling apps with **FastAPI** and **Django**.
-- **Computer Vision:** Processing visual data with **OpenCV**.
-
+### 🚀 Technical Core & Systems Philosophy
+- **System Architecture & Low-Level Dev:** Engineering high-performance, memory-safe systems using **Rust** and **C** to bridge the gap between hardware and software.
+- **Quantitative Trading Infrastructure:** Designing event-driven, ultra-low-latency trading engines with **Nautilus Trader** for real-time market execution.
+- **Scalable Backend Systems:** Architecting robust, high-concurrency microservices and APIs using **FastAPI** and **Django**.
+- **Linux & Kernel Exploration:** Deep-diving into **Ubuntu** and **Fedora** environments, optimizing server performance, and automating infrastructure at scale.
+- **Visionary Computing:** Implementing complex image processing and automation workflows via **OpenCV**.
 ---
 
 ### 🛠 Tech Stack
@@ -21,11 +21,6 @@
 | **Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
-
-### 📈 Live GitHub Metrics 
-![Commits](https://img.shields.io/github/commit-activity/y/Rashandd?style=for-the-badge&color=orange&label=Total%20Commits%20(Year))
-![Repo Count](https://img.shields.io/github/repos/count/Rashandd?style=for-the-badge&color=blue&label=Repositories)
-![Followers](https://img.shields.io/github/followers/Rashandd?style=for-the-badge&color=green&label=Followers)
 
 > **Personal Note:** 📅 Member since 2021. I love diving into forked repositories to understand how the best tools are built under the hood.
 
