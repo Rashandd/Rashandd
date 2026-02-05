@@ -22,7 +22,6 @@
 
 ---
 
-> **Personal Note:** 📅 Member since 2021. I love diving into forked repositories to understand how the best tools are built under the hood.
+> **Personal Note:** Member since 2021. I love diving into forked repositories to understand how the best tools are built under the hood.
 
 ---
-*“In code we trust, but for trading, we backtest.”*
