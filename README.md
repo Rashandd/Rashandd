@@ -22,12 +22,10 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://img.shields.io/github/followers/Rashandd?label=Followers&style=for-the-badge&color=blue">
-<img src="https://img.shields.io/github/repos/count/Rashandd?label=Repositories&style=for-the-badge&color=green">
-<img src="https://img.shields.io/github/stars/Rashandd?style=for-the-badge&color=yellow">
-</p>
+### 📈 Live GitHub Metrics 
+![Commits](https://img.shields.io/github/commit-activity/y/Rashandd?style=for-the-badge&color=orange&label=Total%20Commits%20(Year))
+![Repo Count](https://img.shields.io/github/repos/count/Rashandd?style=for-the-badge&color=blue&label=Repositories)
+![Followers](https://img.shields.io/github/followers/Rashandd?style=for-the-badge&color=green&label=Followers)
 
 > **Personal Note:** 📅 Member since 2021. I love diving into forked repositories to understand how the best tools are built under the hood.
 
