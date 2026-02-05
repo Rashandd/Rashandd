@@ -1,5 +1,5 @@
 # ⚡ Adem (Rashandd)
-**Systems Architect | Quant & Algorithmic Trading Enthusiast**
+**Software Engineer**
 
 ---
 
