@@ -1,9 +1,9 @@
-# ⚡ Adem (Rashandd)
+# Adem 
 **Software Engineer**
 
 ---
 
-### 🚀 Technical Core & Systems Philosophy
+### Technical Core & Systems Philosophy
 - **System Architecture & Low-Level Dev:** Engineering high-performance, memory-safe systems using **Rust** and **C** to bridge the gap between hardware and software.
 - **Quantitative Trading Infrastructure:** Designing event-driven, ultra-low-latency trading engines with **Nautilus Trader** for real-time market execution.
 - **Scalable Backend Systems:** Architecting robust, high-concurrency microservices and APIs using **FastAPI** and **Django**.
